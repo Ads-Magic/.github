@@ -23,10 +23,10 @@ Our flagship plugin designed to generate optimized product feeds for Google Shop
 ---
 
 ### 🛠️ Technologies We Use
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+* [PHP].(https://github.com/php)
+* [WorPress].(https://github.com/wordpress)
+* [React].(https://github.com/facebook/react)
+* [Vite].(https://github.com/vitejs/vite)
 
 ---
 
