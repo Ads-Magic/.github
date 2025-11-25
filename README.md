@@ -1,4 +1,4 @@
-# Welcome to Ads Magic 🪄
+# Welcome to Ads Magic
 
 **Automated Marketing Intelligence for WooCommerce**
 
